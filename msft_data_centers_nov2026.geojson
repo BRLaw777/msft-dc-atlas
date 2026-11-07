@@ -1,0 +1,1397 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.892,
+          42.715
+        ]
+      },
+      "properties": {
+        "name": "Mount Pleasant (Fairwater I & II AI Supercomputer)",
+        "location": "Mount Pleasant, Racine Co., WI",
+        "region": "US-Central (WI)",
+        "country": "US",
+        "lat": 42.715,
+        "lon": -87.892,
+        "mw": 900,
+        "mw_label": "~900 MW IT (315,000+ GB200/GB300 GPUs; $7.3B Stages 1 & 2)",
+        "status": "Under construction",
+        "category": "Owned Mega-Campus",
+        "facility_type": "AI Supercomputer",
+        "operator": "Microsoft Azure",
+        "power_type": "WEC Energy / We Energies (~1.8 GW request; new Oak Creek gas turbines + 250 MW Portage solar)",
+        "water_cooling": "Closed-loop zero-evaporative liquid cooling (>90% capacity; ~2.8M gal/yr sanitary/humidification)",
+        "permits_outstanding": "Fully permitted; PSCW Docket 6630-FR-2025 VLP tariff under review; Ph 1 Early 2026, Ph 2 2027",
+        "confidence": "HIGH (Microsoft Blog Sept 18, 2025; PSCW filings)",
+        "id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.675,
+          33.561
+        ]
+      },
+      "properties": {
+        "name": "Atlanta (Fairwater Atlanta AI Superfactory)",
+        "location": "Fulton / Douglas / Fayette Cos. (Palmetto / Union City), GA",
+        "region": "US-East (GA)",
+        "country": "US",
+        "lat": 33.561,
+        "lon": -84.675,
+        "mw": 750,
+        "mw_label": "~700-850 MW IT (OAI Twin Fabric w/ Wisconsin; $1.8B+ Ph 1-3)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "AI Supercomputer",
+        "operator": "Microsoft Azure",
+        "power_type": "Georgia Power (Southern Co. 2025 IRP large-load gas/nuclear/BESS expansion)",
+        "water_cooling": "Closed-loop liquid cooling (zero evaporative water for primary AI racks)",
+        "permits_outstanding": "Operational Oct 2025 (Ph 1); expansions permitted; GA PSC rate-design review",
+        "confidence": "HIGH (Microsoft Oct 2025 announcement)",
+        "id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.852,
+          47.234
+        ]
+      },
+      "properties": {
+        "name": "Quincy / Wenatchee / Malaga / East Wenatchee Cluster",
+        "location": "Grant, Chelan & Douglas Cos., WA",
+        "region": "US-West (WA)",
+        "country": "US",
+        "lat": 47.234,
+        "lon": -119.852,
+        "mw": 800,
+        "mw_label": "~750-900 MW IT (25+ buildings across MWH01+, CWH, EWH)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Grant Co. PUD & Chelan Co. PUD mid-Columbia hydropower + 300 MW hydrogen PEM backup pilot",
+        "water_cooling": "Industrial water recycling utility (Quincy Water Reuse Utility) + closed-loop expansion",
+        "permits_outstanding": "Operational & expanding; WA Dept. of Ecology Tier II Diesel Generator General Permit",
+        "confidence": "HIGH (Grant PUD / WA Ecology filings)",
+        "id": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.387,
+          36.667
+        ]
+      },
+      "properties": {
+        "name": "Boydton / Mecklenburg County Hub",
+        "location": "Boydton, Mecklenburg Co., VA",
+        "region": "US-East (VA)",
+        "country": "US",
+        "lat": 36.667,
+        "lon": -78.387,
+        "mw": 700,
+        "mw_label": "~650-800 MW IT (BN1-BN18+ across 1,300+ acres; $4B+ capex)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Dominion Energy Virginia (PJM DOM Zone; 500 MW Dominion solar PPA + grid)",
+        "water_cooling": "Adiabatic/evaporative legacy + closed-loop liquid retrofit on new phases",
+        "permits_outstanding": "Operational; VA DEQ emergency generator air permits; PJM 500 kV transmission constraint",
+        "confidence": "HIGH (VA DEQ / Mecklenburg Co. records)",
+        "id": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.487,
+          39.043
+        ]
+      },
+      "properties": {
+        "name": "Northern Virginia (Leesburg / Gainesville / Bristow / Sterling)",
+        "location": "Loudoun & Prince William Cos., VA",
+        "region": "US-East (VA)",
+        "country": "US",
+        "lat": 39.043,
+        "lon": -77.487,
+        "mw": 1400,
+        "mw_label": "~1,200-1,600 MW IT (Compass Creek, Devlin Tech Park, Manassas, CloudHQ leases)",
+        "status": "Operational",
+        "category": "Owned & Leased Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Dominion Energy & NOVEC (PJM DOM Zone)",
+        "water_cooling": "Reclaimed purple-pipe municipal water + closed-loop zero-water on new builds",
+        "permits_outstanding": "Compass Creek & Gainesville built; Loudoun/PWC rezoning caps & PJM 2027-2029 transmission queue",
+        "confidence": "HIGH (Loudoun & PWC zoning filings)",
+        "id": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.812,
+          41.545
+        ]
+      },
+      "properties": {
+        "name": "West Des Moines / Van Meter / Elkhart (Iowa Cluster)",
+        "location": "Polk, Dallas & Madison Cos., IA",
+        "region": "US-Central (IA)",
+        "country": "US",
+        "lat": 41.545,
+        "lon": -93.812,
+        "mw": 1000,
+        "mw_label": "~900-1,100 MW IT (Alluvion, Osmium, Ginger East/West, Ruthenium \u2014 6 campuses, $6B+)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "MidAmerican Energy (MISO; >88% wind-matched PPA portfolio)",
+        "water_cooling": "Evaporative cooling on GPT-4 era halls (68.5M gal/yr peak in 2024); closed-loop on new halls",
+        "permits_outstanding": "Operational & expanding (Ruthenium/Ginger); West Des Moines water infrastructure agreements active",
+        "confidence": "HIGH (City of West Des Moines filings)",
+        "id": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.358,
+          33.435
+        ]
+      },
+      "properties": {
+        "name": "Goodyear / El Mirage / Phoenix West Valley Cluster",
+        "location": "Maricopa Co. (Goodyear / El Mirage / Avondale), AZ",
+        "region": "US-West3 (AZ)",
+        "country": "US",
+        "lat": 33.435,
+        "lon": -112.358,
+        "mw": 700,
+        "mw_label": "~650-850 MW IT (PHX10, PHX11, PHX20-70+, El Mirage \u2014 10+ active/building halls)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "APS & SRP (WECC Desert Southwest; Longroad Sun Streams solar PPAs)",
+        "water_cooling": "Transitioning from evaporative to zero-water closed-loop liquid cooling (Aug 2024 design mandate)",
+        "permits_outstanding": "Operational & expanding; ADWR 100-yr Assured Water Supply scrutiny & APS transmission queue",
+        "confidence": "HIGH (Maricopa Co. / Goodyear filings)",
+        "id": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.695,
+          29.424
+        ]
+      },
+      "properties": {
+        "name": "San Antonio / Medina County / Castroville Cluster",
+        "location": "Bexar & Medina Cos., TX",
+        "region": "US-South Central (TX)",
+        "country": "US",
+        "lat": 29.424,
+        "lon": -98.695,
+        "mw": 800,
+        "mw_label": "~750-950 MW IT (SAT01-SAT85+ across Westover Hills, Texas Research Park, Castroville)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "CPS Energy & AEP Texas (ERCOT South; wind/solar PPAs)",
+        "water_cooling": "SAWS recycled water + closed-loop zero-water cooling on SAT80+ expansions",
+        "permits_outstanding": "Operational & under construction ($1.5B+ SAT80/81/46/47 TDLR filings); ERCOT SB 6 large-load rules",
+        "confidence": "HIGH (Texas TDLR filings)",
+        "id": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.82,
+          41.139
+        ]
+      },
+      "properties": {
+        "name": "Cheyenne Cluster",
+        "location": "Cheyenne, Laramie Co., WY",
+        "region": "US-West Central (WY)",
+        "country": "US",
+        "lat": 41.139,
+        "lon": -104.82,
+        "mw": 450,
+        "mw_label": "~400-500 MW IT (CYS01-CYS15+; $1.8B+ investment)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Black Hills Energy (WECC Rockies; innovative Large Power Contract Service tariff + wind PPAs)",
+        "water_cooling": "Direct evaporative free-air cooling (cool dry climate) + closed-loop liquid",
+        "permits_outstanding": "Operational & expanding; WY DEQ air permits",
+        "confidence": "HIGH (Wyoming PSC / Black Hills filings)",
+        "id": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.905,
+          41.916
+        ]
+      },
+      "properties": {
+        "name": "Chicago (Northlake / Elk Grove / Hoffman Estates / Plano)",
+        "location": "Cook, DuPage & Kendall Cos., IL",
+        "region": "US-North Central (IL)",
+        "country": "US",
+        "lat": 41.916,
+        "lon": -87.905,
+        "mw": 420,
+        "mw_label": "~350-500 MW IT (CH1 Northlake, Elk Grove Village, Hoffman Estates, Plano 500+ acres)",
+        "status": "Operational",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "ComEd / Exelon (PJM ComEd Zone; Constellation 24/7 nuclear clean-energy match)",
+        "water_cooling": "Municipal / closed-loop cooling on newer Hoffman Estates halls",
+        "permits_outstanding": "Northlake & Elk Grove operational; Hoffman Estates building; Plano early site prep",
+        "confidence": "HIGH (Cook Co. & IL EPA filings)",
+        "id": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.954,
+          37.418
+        ]
+      },
+      "properties": {
+        "name": "San Jose / Santa Clara Cluster",
+        "location": "San Jose & Santa Clara, Santa Clara Co., CA",
+        "region": "US-West (CA)",
+        "country": "US",
+        "lat": 37.418,
+        "lon": -121.954,
+        "mw": 180,
+        "mw_label": "~150-220 MW IT (SJC leased halls + 65-acre Alviso San Jose site)",
+        "status": "Operational",
+        "category": "Owned & Leased Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "PG&E & Silicon Valley Power (CAISO)",
+        "water_cooling": "South Bay Water Recycling (reclaimed water) + zero-water closed-loop",
+        "permits_outstanding": "Leased halls operational; San Jose Alviso campus subject to PG&E substation energization timeline (2027-2028) & CEQA EIR",
+        "confidence": "HIGH (City of San Jose CEQA filings)",
+        "id": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.725,
+          40.065
+        ]
+      },
+      "properties": {
+        "name": "Columbus / New Albany / Licking County",
+        "location": "New Albany / Hebron / Pataskala, Licking Co., OH",
+        "region": "US-East (OH)",
+        "country": "US",
+        "lat": 40.065,
+        "lon": -82.725,
+        "mw": 300,
+        "mw_label": "~200-400 MW IT ($1B initial 3-site commitment; paused early 2025, resuming select phases)",
+        "status": "Under construction",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "AEP Ohio (PJM; 85% min demand ratchet under PUCO Case 24-0508-EL-ATA)",
+        "water_cooling": "Closed-loop zero-evaporative cooling design",
+        "permits_outstanding": "Tax abatements & zoning secured; construction sequencing slowed in 2025 while awaiting AEP 345/765 kV transmission upgrades",
+        "confidence": "HIGH (City of New Albany / PUCO filings)",
+        "id": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.722,
+          41.61
+        ]
+      },
+      "properties": {
+        "name": "La Porte / Granger (Indiana Mega-Campuses)",
+        "location": "La Porte & St. Joseph Cos., IN",
+        "region": "US-Central (IN)",
+        "country": "US",
+        "lat": 41.61,
+        "lon": -86.722,
+        "mw": 500,
+        "mw_label": "~400-600 MW IT ($1B La Porte 489-acre campus + 929-acre Granger site)",
+        "status": "Under construction",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "NIPSCO & I&M / AEP (MISO / PJM; IURC Cause 46097 large-load tariff)",
+        "water_cooling": "Closed-loop zero-water cooling",
+        "permits_outstanding": "40-yr tax abatements approved; La Porte earthwork underway; target 2027-2028 energization",
+        "confidence": "HIGH (Indiana IEDC / La Porte Co. filings)",
+        "id": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.215,
+          35.642
+        ]
+      },
+      "properties": {
+        "name": "Catawba / Maiden / Person County (North Carolina)",
+        "location": "Catawba & Person Cos., NC",
+        "region": "US-East (NC)",
+        "country": "US",
+        "lat": 35.642,
+        "lon": -81.215,
+        "mw": 500,
+        "mw_label": "~400-600 MW IT ($1B+ 4-site Catawba Co. build + 1,385-acre Person Co. mega-site)",
+        "status": "Under construction",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Duke Energy Carolinas & Progress (SERC)",
+        "water_cooling": "Closed-loop liquid cooling",
+        "permits_outstanding": "Catawba sites under construction; Person Co. rezoned near Mayo plant; Duke NCUC large-load queue",
+        "confidence": "HIGH (Catawba & Person Co. records)",
+        "id": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.475,
+          39.55
+        ]
+      },
+      "properties": {
+        "name": "Reno / Storey County (Tahoe-Reno Industrial Center)",
+        "location": "Storey & Washoe Cos., NV",
+        "region": "US-West (NV)",
+        "country": "US",
+        "lat": 39.55,
+        "lon": -119.475,
+        "mw": 250,
+        "mw_label": "~200-300 MW IT (332+ acres at TRIC & Silver Springs)",
+        "status": "Proposed",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "NV Energy (WECC; Greenlink West 525 kV transmission dependency)",
+        "water_cooling": "Zero-water closed-loop + TRIC greywater",
+        "permits_outstanding": "Land owned; awaiting NV Energy substation capacity & PUCN large-load tariff allocation",
+        "confidence": "MEDIUM-HIGH (Storey Co. / PUCN filings)",
+        "id": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.275,
+          46.28
+        ]
+      },
+      "properties": {
+        "name": "Richland / Kennewick (Tri-Cities Washington)",
+        "location": "Benton Co., WA",
+        "region": "US-West (WA)",
+        "country": "US",
+        "lat": 46.28,
+        "lon": -119.275,
+        "mw": 200,
+        "mw_label": "~150-250 MW IT (300+ acre industrial site)",
+        "status": "Proposed",
+        "category": "Owned Mega-Campus",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Benton PUD / BPA (WECC Northwest; constrained federal hydro allocation)",
+        "water_cooling": "Closed-loop zero-water cooling",
+        "permits_outstanding": "Land acquired; awaiting BPA transmission service study",
+        "confidence": "MEDIUM (Benton Co. property records)",
+        "id": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.025,
+          39.486
+        ]
+      },
+      "properties": {
+        "name": "Nebius Vineland AI Campus (MSFT $17.4B-$19.4B Contract)",
+        "location": "Vineland, Cumberland Co., NJ",
+        "region": "PJM East (NJ)",
+        "country": "US",
+        "lat": 39.486,
+        "lon": -75.025,
+        "mw": 300,
+        "mw_label": "300 MW IT (>100,000 GB300 NVL72 GPUs; $17.4B-$19.4B 5-yr lease)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "Nebius Group (NBIS) / DataOne",
+        "power_type": "Atlantic City Electric (PJM) + Behind-the-Meter natural gas generation",
+        "water_cooling": "Direct-to-chip closed-loop liquid cooling (zero evaporative water)",
+        "permits_outstanding": "Permitted; Ph 1 (100 MW) energizing late 2025, Ph 2-3 (200 MW) ramping through 2026",
+        "confidence": "HIGH (Nebius Form 6-K Sept 8, 2025)",
+        "id": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.204,
+          34.426
+        ]
+      },
+      "properties": {
+        "name": "IREN Childress Horizon 1-4 AI Campus (MSFT $9.7B Contract)",
+        "location": "Childress, Childress Co., TX",
+        "region": "ERCOT West/Panhandle (TX)",
+        "country": "US",
+        "lat": 34.426,
+        "lon": -100.204,
+        "mw": 200,
+        "mw_label": "200 MW Critical IT (~300 MW gross; GB300 NVL72; $9.7B 5-yr contract w/ 20% prepayment)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "IREN Limited (IREN)",
+        "power_type": "AEP Texas / ERCOT (750 MW energized substation already on-site)",
+        "water_cooling": "Direct-to-chip closed-loop liquid cooling (Horizon 1-4 halls)",
+        "permits_outstanding": "Substation energized & permitted; phased delivery across 2026",
+        "confidence": "HIGH (IREN SEC Form 6-K / PR Nov 3, 2025)",
+        "id": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.125,
+          31.54
+        ]
+      },
+      "properties": {
+        "name": "Nscale Texas AI Campus (MSFT $10.4B-$14.0B Contract)",
+        "location": "Pyote / Ward Co., TX",
+        "region": "ERCOT West (TX)",
+        "country": "US",
+        "lat": 31.54,
+        "lon": -103.125,
+        "mw": 240,
+        "mw_label": "~240 MW IT (~104,000 GB300 NVL72 GPUs; part of 200,000 GPU Oct 2025 deal)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "Nscale",
+        "power_type": "ERCOT West grid + Permian natural gas / solar generation",
+        "water_cooling": "Direct-to-chip closed-loop liquid cooling",
+        "permits_outstanding": "Substation & land secured; ramp scheduled Q3 2026",
+        "confidence": "HIGH (Microsoft & Nscale PR Oct 15, 2025)",
+        "id": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.698,
+          33.019
+        ]
+      },
+      "properties": {
+        "name": "CoreWeave US AI Cluster for Microsoft (Plano / Denton / NC)",
+        "location": "Plano & Denton, TX / Marble, NC",
+        "region": "ERCOT / SERC (US)",
+        "country": "US",
+        "lat": 33.019,
+        "lon": -96.698,
+        "mw": 750,
+        "mw_label": "~700-850 MW IT (62% of CoreWeave 2024 revenue; >$10B cumulative contracts through 2030)",
+        "status": "Operational",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "CoreWeave (CRWV)",
+        "power_type": "Oncor / Denton Municipal Electric (ERCOT) & Duke Energy",
+        "water_cooling": "Direct-to-chip closed-loop liquid cooling (H100/H200/GB200)",
+        "permits_outstanding": "Operational & fully ramped across multi-site US footprint",
+        "confidence": "HIGH (CoreWeave S-1 March 2025)",
+        "id": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.578,
+          39.099
+        ]
+      },
+      "properties": {
+        "name": "Lambda Labs AI Cluster for Microsoft",
+        "location": "Kansas City, MO / Austin & Dallas, TX",
+        "region": "SPP / ERCOT (US)",
+        "country": "US",
+        "lat": 39.099,
+        "lon": -94.578,
+        "mw": 180,
+        "mw_label": "~150-200 MW IT (Tens of thousands of GB200/GB300 GPUs; multi-billion Nov 2025 deal)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "Lambda Labs",
+        "power_type": "Evergy (SPP) & Oncor (ERCOT) leased colocation power",
+        "water_cooling": "Direct-to-chip liquid cooling",
+        "permits_outstanding": "Colocation shells permitted; deploying 2026",
+        "confidence": "HIGH (Lambda & Microsoft PR Nov 3, 2025)",
+        "id": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.427,
+          68.438
+        ]
+      },
+      "properties": {
+        "name": "Nscale / Aker Narvik AI Campus (Stargate / MSFT Norway)",
+        "location": "Kvandal, Narvik, Nordland, Norway",
+        "region": "NordPool NO4 (Norway)",
+        "country": "NO",
+        "lat": 68.438,
+        "lon": 17.427,
+        "mw": 230,
+        "mw_label": "230 MW IT (scaling to 520 MW; ~52,000+ GB300 GPUs for Microsoft under $6.2B 5-yr lease)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "Nscale & Aker ASA JV",
+        "power_type": "100% Arctic surplus hydropower (Statnett Kvandal substation)",
+        "water_cooling": "Closed-loop liquid + Arctic ambient free cooling",
+        "permits_outstanding": "Substation & zoning approved; phased delivery starting 2026",
+        "confidence": "HIGH (Aker ASA & Microsoft PR Sept-Oct 2025)",
+        "id": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.075,
+          51.648
+        ]
+      },
+      "properties": {
+        "name": "Nscale Loughton UK AI Supercomputer (MSFT UK Sovereign)",
+        "location": "Loughton, Essex (Greater London), UK",
+        "region": "UK-South (UK)",
+        "country": "GB",
+        "lat": 51.648,
+        "lon": 0.075,
+        "mw": 90,
+        "mw_label": "50-90 MW IT (~23,000 GB300 GPUs; anchor of Microsoft $30B UK AI commitment)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "Nscale",
+        "power_type": "National Grid UK energized connection",
+        "water_cooling": "Closed-loop zero-evaporative liquid cooling",
+        "permits_outstanding": "Planning permission & power secured; target Q4 2026-Q1 2027",
+        "confidence": "HIGH (Microsoft UK PR Sept 16 & Oct 15, 2025)",
+        "id": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.869,
+          37.956
+        ]
+      },
+      "properties": {
+        "name": "Nscale Sines Portugal AI Campus (MSFT European AI)",
+        "location": "Sines, Setubal District, Portugal",
+        "region": "Iberia (Portugal)",
+        "country": "PT",
+        "lat": 37.956,
+        "lon": -8.869,
+        "mw": 45,
+        "mw_label": "~40-50 MW IT (~12,600 GB300 GPUs; Start Campus SINES DC)",
+        "status": "Under construction",
+        "category": "Partner / Neocloud",
+        "facility_type": "Neocloud AI Cluster",
+        "operator": "Nscale / Start Campus",
+        "power_type": "REN grid + solar/wind PPAs",
+        "water_cooling": "Ocean seawater non-chlorinated closed-loop heat exchange (zero freshwater)",
+        "permits_outstanding": "Permitted; deploying Q1 2026",
+        "confidence": "HIGH (Microsoft & Nscale PR Oct 15, 2025)",
+        "id": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.724,
+          40.153
+        ]
+      },
+      "properties": {
+        "name": "Crane Clean Energy Center (Three Mile Island Unit 1)",
+        "location": "Londonderry Twp., Dauphin Co., PA",
+        "region": "PJM East (PA)",
+        "country": "US",
+        "lat": 40.153,
+        "lon": -76.724,
+        "mw": 835,
+        "mw_label": "835 MW Net Nuclear Capacity (20-yr 100% PPA w/ Microsoft; $1.6B restart + $1B DOE loan)",
+        "status": "Under construction",
+        "category": "Dedicated Power Plant",
+        "facility_type": "Power Plant (Nuclear PPA)",
+        "operator": "Constellation Energy (CEG)",
+        "power_type": "Pressurized Water Reactor (835 MWe 24/7 carbon-free nuclear injected into PJM grid)",
+        "water_cooling": "Mechanical/natural draft cooling towers (Susquehanna River)",
+        "permits_outstanding": "NRC licensing, FERC PJM interconnection fast-track, DOE $1B loan closed Nov 2025; target 2027 restart",
+        "confidence": "HIGH (Constellation Energy 10-K & DOE Nov 2025 PR)",
+        "id": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.924,
+          42.808
+        ]
+      },
+      "properties": {
+        "name": "Caledonia Project Nova (CANCELLED Oct 2025)",
+        "location": "Caledonia, Racine Co., WI",
+        "region": "US-Central (WI)",
+        "country": "US",
+        "lat": 42.808,
+        "lon": -87.924,
+        "mw": 300,
+        "mw_label": "0 MW (244-acre campus cancelled Oct 2025 before rezoning vote; ~300-400 MW planned)",
+        "status": "Cancelled",
+        "category": "Cancelled / Blocked",
+        "facility_type": "Cancelled Greenfield",
+        "operator": "Microsoft Azure",
+        "power_type": "We Energies (planned near Oak Creek power plant)",
+        "water_cooling": "Planned closed-loop cooling",
+        "permits_outstanding": "Withdrawn Oct 2025 after overwhelming resident opposition & Village Board whip count against rezoning",
+        "confidence": "HIGH (Microsoft statement Oct 2025)",
+        "id": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.342,
+          42.912
+        ]
+      },
+      "properties": {
+        "name": "Lowell Township Site (BLOCKED)",
+        "location": "Lowell Charter Twp., Kent Co., MI",
+        "region": "US-Central (MI)",
+        "country": "US",
+        "lat": 42.912,
+        "lon": -85.342,
+        "mw": 250,
+        "mw_label": "0 MW (~230 acres near Dorr/Lowell; ~250 MW planned; rezoning rejected)",
+        "status": "Cancelled",
+        "category": "Cancelled / Blocked",
+        "facility_type": "Cancelled Greenfield",
+        "operator": "Microsoft Azure",
+        "power_type": "Consumers Energy (MISO)",
+        "water_cooling": "Planned closed-loop cooling",
+        "permits_outstanding": "Blocked by township zoning resistance & agricultural preservation opposition",
+        "confidence": "HIGH (Michigan township minutes 2025-2026)",
+        "id": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.365,
+          41.417
+        ]
+      },
+      "properties": {
+        "name": "Crown Point / Merrillville Site (WITHDRAWN)",
+        "location": "Lake Co., IN",
+        "region": "US-Central (IN)",
+        "country": "US",
+        "lat": 41.417,
+        "lon": -87.365,
+        "mw": 200,
+        "mw_label": "0 MW (~200+ MW planned; rezoning withdrawn after Planning Commission pushback)",
+        "status": "Cancelled",
+        "category": "Cancelled / Blocked",
+        "facility_type": "Cancelled Greenfield",
+        "operator": "Microsoft Azure",
+        "power_type": "NIPSCO (MISO)",
+        "water_cooling": "Planned closed-loop cooling",
+        "permits_outstanding": "Withdrawn following municipal rezoning opposition",
+        "confidence": "MEDIUM-HIGH (Lake Co. planning records)",
+        "id": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.612,
+          38.818
+        ]
+      },
+      "properties": {
+        "name": "Gainesville / Haymarket PW Digital Gateway Adjacent Sites",
+        "location": "Prince William Co., VA",
+        "region": "US-East (VA)",
+        "country": "US",
+        "lat": 38.818,
+        "lon": -77.612,
+        "mw": 350,
+        "mw_label": "~350 MW Contested Expansion (Oak Valley / Devlin corridor litigation & 2025 voided rezoning)",
+        "status": "Proposed",
+        "category": "Contested / Delayed",
+        "facility_type": "Contested Greenfield",
+        "operator": "Microsoft Azure",
+        "power_type": "Dominion Energy (PJM; contested 500 kV transmission line routing)",
+        "water_cooling": "Closed-loop liquid cooling",
+        "permits_outstanding": "Active circuit-court zoning litigation & PJM transmission bottleneck",
+        "confidence": "HIGH (Prince William Co. court records)",
+        "id": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.492,
+          39.967
+        ]
+      },
+      "properties": {
+        "name": "Licking County (Hebron / Pataskala Deferred Sites)",
+        "location": "Hebron & Pataskala, Licking Co., OH",
+        "region": "US-East (OH)",
+        "country": "US",
+        "lat": 39.967,
+        "lon": -82.492,
+        "mw": 250,
+        "mw_label": "~250 MW Deferred Phases (2 of 3 Ohio sites paused early 2025 into farm leases pending AEP grid)",
+        "status": "Proposed",
+        "category": "Contested / Delayed",
+        "facility_type": "Deferred Greenfield",
+        "operator": "Microsoft Azure",
+        "power_type": "AEP Ohio (PJM; subject to 85% demand ratchet & 345/765 kV queue)",
+        "water_cooling": "Closed-loop cooling",
+        "permits_outstanding": "Land retained by Microsoft; construction deferred pending grid capacity & capital reprioritization",
+        "confidence": "HIGH (Microsoft statement March 2025)",
+        "id": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.425,
+          53.315
+        ]
+      },
+      "properties": {
+        "name": "Dublin Grange Castle Campus (Europe North)",
+        "location": "Grange Castle, South Dublin, Ireland",
+        "region": "Europe North (IE)",
+        "country": "IE",
+        "lat": 53.315,
+        "lon": -6.425,
+        "mw": 350,
+        "mw_label": "~300-400 MW IT (DB3-DB8+ operational; 170 MW on-site gas plant permitted for DUB14/15)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "EirGrid (constrained until 2028) + 170 MW on-site gas generation + 900+ MW Irish wind/solar PPAs",
+        "water_cooling": "Rainwater harvesting + air-side free cooling (cool Atlantic climate)",
+        "permits_outstanding": "Active halls operational; new grid connections frozen in Dublin by CRU/EirGrid through ~2028",
+        "confidence": "HIGH (South Dublin Co. Council / An Bord Pleanala)",
+        "id": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.998,
+          52.812
+        ]
+      },
+      "properties": {
+        "name": "Middenmeer / Hollands Kroon Campus (Europe West)",
+        "location": "Middenmeer, North Holland, Netherlands",
+        "region": "Europe West (NL)",
+        "country": "NL",
+        "lat": 52.812,
+        "lon": 4.998,
+        "mw": 280,
+        "mw_label": "~250-320 MW IT (AMS06+ Agriport A7 mega-campus)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "TenneT (Dutch grid; Vattenfall Wieringermeer & offshore wind PPAs)",
+        "water_cooling": "Direct air-side economization (low water intensity: ~12-20M gal/yr)",
+        "permits_outstanding": "Operational; Dutch national ban on new hyperscale zoning (>10 ha / >70 MW) caps greenfield expansion",
+        "confidence": "HIGH (Dutch national spatial decree / Noord-Holland filings)",
+        "id": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.141,
+          60.674
+        ]
+      },
+      "properties": {
+        "name": "G\u00e4vle / Sandviken / Staffanstorp (Sweden Central)",
+        "location": "G\u00e4vle & Sandviken, G\u00e4vleborg Co., Sweden",
+        "region": "Sweden Central (SE)",
+        "country": "SE",
+        "lat": 60.674,
+        "lon": 17.141,
+        "mw": 450,
+        "mw_label": "~400-500 MW IT ($3.2B 2024-2026 AI expansion adding 20,000+ GPUs)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Vattenfall / Ellevio (Nordic 100% hydro/nuclear/wind carbon-free grid)",
+        "water_cooling": "Rainwater harvesting + Nordic ambient free cooling + closed-loop liquid",
+        "permits_outstanding": "Operational & actively expanding through 2026",
+        "confidence": "HIGH (Microsoft Sweden PR June 2024)",
+        "id": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.515,
+          60.165
+        ]
+      },
+      "properties": {
+        "name": "Espoo / Kirkkonummi / Vihti (Finland Central)",
+        "location": "Uusimaa (Greater Helsinki), Finland",
+        "region": "Finland Central (FI)",
+        "country": "FI",
+        "lat": 60.165,
+        "lon": 24.515,
+        "mw": 350,
+        "mw_label": "~300-400 MW IT (World-largest waste-heat recovery scheme w/ Fortum)",
+        "status": "Under construction",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Fingrid 400 kV (100% carbon-free nuclear/hydro/wind electricity)",
+        "water_cooling": "Closed-loop liquid cooling rejecting waste heat into Fortum district heating (40% of Espoo homes)",
+        "permits_outstanding": "Environmental permits & grid secured; construction underway for 2026-2027 commissioning",
+        "confidence": "HIGH (Fortum & Microsoft joint filings)",
+        "id": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.575,
+          50.985
+        ]
+      },
+      "properties": {
+        "name": "Rheinisches Revier (Bedburg / Bergheim) & Frankfurt (Germany)",
+        "location": "North Rhine-Westphalia & Hesse, Germany",
+        "region": "Germany West Central (DE)",
+        "country": "DE",
+        "lat": 50.985,
+        "lon": 6.575,
+        "mw": 380,
+        "mw_label": "~350-450 MW IT (\u20ac3.2B 2024-2025 AI investment across NRW greenfield & Frankfurt)",
+        "status": "Under construction",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Amprion 380 kV transmission (former coal basin substations)",
+        "water_cooling": "Closed-loop cooling + German EnEfG waste-heat reuse compliance",
+        "permits_outstanding": "Frankfurt operational; Bedburg/Bergheim under construction through 2026-2027",
+        "confidence": "HIGH (Microsoft Germany PR Feb 2024)",
+        "id": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.265,
+          51.525
+        ]
+      },
+      "properties": {
+        "name": "London / Newport Wales / Park Royal (UK South & West)",
+        "location": "Greater London, Slough & Newport (Wales), UK",
+        "region": "UK South & West (GB)",
+        "country": "GB",
+        "lat": 51.525,
+        "lon": -0.265,
+        "mw": 450,
+        "mw_label": "~400-500 MW IT (\u00a32.5B 2024-2026 build + $30B Sept 2025 UK AI commitment; Leeds site paused)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "National Grid UK (offshore wind PPAs)",
+        "water_cooling": "Closed-loop liquid cooling on Park Royal & Newport Imperial Park builds",
+        "permits_outstanding": "London/Slough operational; Park Royal & Newport building; Leeds Skelton Grange paced",
+        "confidence": "HIGH (UK planning portals / Microsoft Sept 2025 PR)",
+        "id": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.889,
+          41.648
+        ]
+      },
+      "properties": {
+        "name": "Aragon (Zaragoza \u2014 Villamayor / La Muela / Puerto Venecia) & Madrid",
+        "location": "Zaragoza (Aragon) & Madrid, Spain",
+        "region": "Spain Central & North (ES)",
+        "country": "ES",
+        "lat": 41.648,
+        "lon": -0.889,
+        "mw": 550,
+        "mw_label": "~450-650 MW IT (\u20ac2.1B initial + \u20ac2.9B Aragon expansion across 3 Zaragoza campuses)",
+        "status": "Under construction",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Red El\u00e9ctrica de Espa\u00f1a (REE; abundant Ebro Valley wind & solar)",
+        "water_cooling": "Closed-loop zero-evaporative cooling",
+        "permits_outstanding": "Madrid operational; Aragon declared PIGA regional priority (2026-2030 buildout)",
+        "confidence": "HIGH (Government of Aragon PIGA filings)",
+        "id": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.19,
+          45.464
+        ]
+      },
+      "properties": {
+        "name": "Milan (Lombardy) Region",
+        "location": "Metropolitan City of Milan, Lombardy, Italy",
+        "region": "Italy North (IT)",
+        "country": "IT",
+        "lat": 45.464,
+        "lon": 9.19,
+        "mw": 280,
+        "mw_label": "~250-350 MW IT (\u20ac4.3B Oct 2024 AI & cloud expansion)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Terna Italian grid + renewable PPAs",
+        "water_cooling": "Closed-loop cooling",
+        "permits_outstanding": "Region live; \u20ac4.3B expansion underway across 2025-2027",
+        "confidence": "HIGH (Microsoft Italy PR Oct 2024)",
+        "id": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352,
+          48.856
+        ]
+      },
+      "properties": {
+        "name": "Paris / Marseille / Mulhouse (France Central & South)",
+        "location": "\u00cele-de-France, Marseille & Grand Est, France",
+        "region": "France Central (FR)",
+        "country": "FR",
+        "lat": 48.856,
+        "lon": 2.352,
+        "mw": 350,
+        "mw_label": "~300-400 MW IT (\u20ac4.0B May 2024 Choose France commitment; 25,000+ GPUs)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "RTE French grid (~70% low-carbon EDF nuclear baseload)",
+        "water_cooling": "Closed-loop liquid cooling",
+        "permits_outstanding": "Paris/Marseille operational; Mulhouse greenfield campus building through 2027",
+        "confidence": "HIGH (Microsoft Choose France PR May 2024)",
+        "id": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.65,
+          35.676
+        ]
+      },
+      "properties": {
+        "name": "Tokyo / Osaka / Hiroshima (Japan East & West)",
+        "location": "Greater Tokyo, Osaka & Hiroshima, Japan",
+        "region": "Japan East & West (JP)",
+        "country": "JP",
+        "lat": 35.676,
+        "lon": 139.65,
+        "mw": 380,
+        "mw_label": "~320-450 MW IT ($2.9B April 2024 two-year AI expansion)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "TEPCO, Kansai Electric & Chugoku Electric + Shizen Energy solar PPAs",
+        "water_cooling": "Closed-loop cooling",
+        "permits_outstanding": "Operational & expanding across 2025-2026",
+        "confidence": "HIGH (Microsoft Japan PR April 2024)",
+        "id": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.8,
+          -33.868
+        ]
+      },
+      "properties": {
+        "name": "Sydney / Melbourne / Canberra (Australia East & Southeast)",
+        "location": "Sydney (Kemps Creek / Lane Cove), Melbourne & Canberra, Australia",
+        "region": "Australia East (AU)",
+        "country": "AU",
+        "lat": -33.868,
+        "lon": 150.8,
+        "mw": 420,
+        "mw_label": "~350-500 MW IT (A$5B / $3.2B 2024-2026 expansion from 20 to 29 sites)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Ausgrid / Endeavour Energy / CitiPower + Fotowatio solar PPAs",
+        "water_cooling": "Zero-water / closed-loop cooling on Kemps Creek builds",
+        "permits_outstanding": "Operational & expanding across Western Sydney and Melbourne",
+        "confidence": "HIGH (NSW Planning / Microsoft AU PR)",
+        "id": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.65,
+          1.6
+        ]
+      },
+      "properties": {
+        "name": "Johor Bahru (Kulai / Tanjung Langsat) & Kuala Lumpur (Malaysia)",
+        "location": "Johor & Greater Kuala Lumpur, Malaysia",
+        "region": "Malaysia West (MY)",
+        "country": "MY",
+        "lat": 1.6,
+        "lon": 103.65,
+        "mw": 300,
+        "mw_label": "~250-350 MW IT ($2.2B MY commitment + multiple Johor land acquisitions in 2024-2025)",
+        "status": "Under construction",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Tenaga Nasional Berhad (TNB Green Lane fast-track grid)",
+        "water_cooling": "Closed-loop cooling",
+        "permits_outstanding": "KL region launching; Johor hyperscale campuses under construction (serving Singapore spillover)",
+        "confidence": "HIGH (Bursa Malaysia land disclosures / Microsoft PR)",
+        "id": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.18,
+          -6.32
+        ]
+      },
+      "properties": {
+        "name": "Jakarta / Cikarang / Karawang (Indonesia Central)",
+        "location": "West Java (Bekasi / Karawang), Indonesia",
+        "region": "Indonesia Central (ID)",
+        "country": "ID",
+        "lat": -6.32,
+        "lon": 107.18,
+        "mw": 180,
+        "mw_label": "~150-220 MW IT ($1.7B 4-yr cloud & AI infrastructure investment; launched May 2025)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "PLN national grid + geothermal/solar RECs",
+        "water_cooling": "Closed-loop cooling",
+        "permits_outstanding": "Operational (launched May 2025); note: 1 non-Sovereign site phase paused during early-2025 review",
+        "confidence": "HIGH (Microsoft Indonesia PR April 2024 / May 2025)",
+        "id": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.28,
+          17.15
+        ]
+      },
+      "properties": {
+        "name": "Hyderabad (Mekaguda / Shadnagar / Chandanvelly) & Pune / Mumbai",
+        "location": "Telangana & Maharashtra, India",
+        "region": "India South Central (IN)",
+        "country": "IN",
+        "lat": 17.15,
+        "lon": 78.28,
+        "mw": 500,
+        "mw_label": "~400-600 MW IT ($3.7B+ Telangana investment + $3.0B Jan 2025 national AI expansion)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "TGSPDCL / MSEDCL grid + ReNew Power solar/wind PPAs",
+        "water_cooling": "Zero-water closed-loop cooling on new Hyderabad phases",
+        "permits_outstanding": "Pune/Mumbai/Chennai operational; Hyderabad 3-campus build scaling through 2027",
+        "confidence": "HIGH (Microsoft India PR Jan 2025)",
+        "id": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.35,
+          46.813
+        ]
+      },
+      "properties": {
+        "name": "Toronto / L'Ancienne-Lorette (Quebec) Cluster (Canada)",
+        "location": "Greater Toronto (Vaughan) & Quebec City, Canada",
+        "region": "Canada Central & East (CA)",
+        "country": "CA",
+        "lat": 46.813,
+        "lon": -71.35,
+        "mw": 350,
+        "mw_label": "~300-400 MW IT (4+ Quebec campuses in L'Ancienne-Lorette, Donnacona, L\u00e9vis, Saint-Augustin + Toronto)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "Hydro-Qu\u00e9bec (99% carbon-free hydropower) & IESO Ontario",
+        "water_cooling": "Cold-climate free-air + closed-loop cooling",
+        "permits_outstanding": "Operational & expanding; Hydro-Qu\u00e9bec >5 MW tariff allocation rules apply to future expansions",
+        "confidence": "HIGH (Ville de Qu\u00e9bec / Hydro-Qu\u00e9bec filings)",
+        "id": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.25,
+          20.65
+        ]
+      },
+      "properties": {
+        "name": "Quer\u00e9taro Region (Mexico Central)",
+        "location": "Colon / El Marqu\u00e9s, Quer\u00e9taro, Mexico",
+        "region": "Mexico Central (MX)",
+        "country": "MX",
+        "lat": 20.65,
+        "lon": -100.25,
+        "mw": 180,
+        "mw_label": "~150-220 MW IT ($1.3B AI & cloud investment; launched May 2024)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "CFE Mexican national grid (230 kV substation)",
+        "water_cooling": "Zero-water air/closed-loop cooling (semi-arid region)",
+        "permits_outstanding": "Operational; expanding AI capacity through 2027",
+        "confidence": "HIGH (Microsoft Mexico PR Sept 2024)",
+        "id": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.22,
+          -22.855
+        ]
+      },
+      "properties": {
+        "name": "S\u00e3o Paulo / Campinas / Sumar\u00e9 / Hortol\u00e2ndia (Brazil South)",
+        "location": "S\u00e3o Paulo State, Brazil",
+        "region": "Brazil South & SE (BR)",
+        "country": "BR",
+        "lat": -22.855,
+        "lon": -47.22,
+        "mw": 280,
+        "mw_label": "~220-350 MW IT (R$14.7B / $2.7B Sept 2024 3-yr AI & cloud commitment)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure",
+        "power_type": "CPFL Energia / ONS Brazilian grid (>85% hydro/wind/solar)",
+        "water_cooling": "Closed-loop cooling across Sumar\u00e9 and Hortol\u00e2ndia campuses",
+        "permits_outstanding": "Operational & under construction across Campinas corridor",
+        "confidence": "HIGH (Microsoft Brazil PR Sept 2024)",
+        "id": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.377,
+          24.453
+        ]
+      },
+      "properties": {
+        "name": "Abu Dhabi / Dubai (G42 Partnership & UAE North/Central)",
+        "location": "Abu Dhabi & Dubai, UAE",
+        "region": "UAE North & Central (AE)",
+        "country": "AE",
+        "lat": 24.453,
+        "lon": 54.377,
+        "mw": 300,
+        "mw_label": "~250-350 MW IT ($1.5B Microsoft investment in G42 + Khazna Azure expansions)",
+        "status": "Operational",
+        "category": "Intl Azure Hub",
+        "facility_type": "Hyperscale Cloud & AI",
+        "operator": "Microsoft Azure / G42 / Khazna",
+        "power_type": "EWEC / DEWA (Barakah nuclear + Al Dhafra solar + gas grid)",
+        "water_cooling": "High-ambient closed-loop chiller systems",
+        "permits_outstanding": "Operational & expanding under US-UAE Intergovernmental Assurance Agreement (IGAA)",
+        "confidence": "HIGH (Microsoft & G42 PR April 2024 / 2025)",
+        "id": 48
+      }
+    }
+  ]
+}
